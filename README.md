@@ -1,8 +1,6 @@
-Neosnippet-snippets
+Ruby Dragon Snippets
 ===================
 
-The standard snippets repository for
-[neosnippet](https://github.com/Shougo/neosnippet.vim).
-
-You can fork or send pull request.
+A list of Vim/MacVim snippets to be used along 
+[Ruby Dragon](https://github.com/joaomilho/ruby_dragon).
 
